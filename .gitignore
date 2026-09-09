@@ -1,0 +1,7 @@
+node_modules
+dist
+.primdy
+*.log
+.DS_Store
+.env*
+!.env.example

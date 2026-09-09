@@ -1,0 +1,19 @@
+{
+  "name": "primdy-starter-ts",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TypeScript starter kit for Primdy",
+  "type": "module",
+  "scripts": {
+    "dev": "primdy dev",
+    "build": "primdy build",
+    "start": "primdy start",
+    "analyze": "primdy analyze"
+  },
+  "dependencies": {
+    "primdy": "latest"
+  },
+  "devDependencies": {
+    "typescript": "^7"
+  }
+}
